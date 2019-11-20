@@ -44,4 +44,4 @@
 
 ## Data Structure Classification
 
-![ds-introduction](https://static.javatpoint.com/ds/images/ds-introduction.png, "ds-introduction")
+![ds-introduction](https://static.javatpoint.com/ds/images/ds-introduction.png "ds-introduction")
