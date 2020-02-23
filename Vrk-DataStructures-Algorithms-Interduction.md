@@ -110,4 +110,5 @@ age[0], age[1], age[2], age[3],......... age[98], age[99].
 #### Big O Notation
 Reference : https://medium.com/@yk392/big-o-notation-e35e17febc05
 
+![alg](https://github.com/veerrajukakarla434/VRK-DataStructures-Algorithms/blob/master/alg.JPG "alg")
 
