@@ -119,5 +119,13 @@ age[0], age[1], age[2], age[3],......... age[98], age[99].
 
 Reference :  https://www.javatpoint.com/data-structure-algorithm
 
+![1*ipkeWQ_Lb0lbkhB8rigxTA](https://miro.medium.com/max/596/1*ipkeWQ_Lb0lbkhB8rigxTA.png "1*ipkeWQ_Lb0lbkhB8rigxTA")
+
+![mcs2017020063ta](https://csdl-images.computer.org/mags/cs/2017/02/figures/mcs2017020063ta.gif "mcs2017020063ta")
+
+#### Big O Notation
+Reference : https://medium.com/@yk392/big-o-notation-e35e17febc05
+
+![alg](https://github.com/veerrajukakarla434/VRK-DataStructures-Algorithms/blob/master/alg.JPG "alg")
 
 
