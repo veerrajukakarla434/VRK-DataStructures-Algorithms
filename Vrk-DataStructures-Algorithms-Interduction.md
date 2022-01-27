@@ -117,5 +117,7 @@ age[0], age[1], age[2], age[3],......... age[98], age[99].
 * **Effectiveness:** An algorithm should be effective as each instruction in an algorithm affects the overall process.
 * **Language independent:**  An algorithm must be language-independent so that the instructions in an algorithm can be implemented in any of the languages with the same output.
 
+Reference :  https://www.javatpoint.com/data-structure-algorithm
+
 
 
